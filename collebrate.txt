@@ -1,3 +1,9 @@
 sahjath
 puluthi vayal
 create api
+<<<<<<< HEAD
+hello world
+nifras is legent
+=======
+hello world
+>>>>>>> 1606b1736f3b01853e1d0f7d34db2bc1761f0ece
